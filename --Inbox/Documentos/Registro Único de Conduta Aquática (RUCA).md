@@ -11,3 +11,9 @@
     Só quem boiou bem (T8) entra neste registro. Ele define o julgamento final da molhabilidade plena.
 
 Depende de: [[Documento Oficial de Observação de Flutuabilidade (DOOF)]]
+
+## Resumo RUCA
+
+| ![[Pasted image 20250623195738.png]] | <br>Depende de: [[Documento Oficial de Observação de Flutuabilidade (DOOF)]] |
+| ------------------------------------ | ---------------------------------------------------------------------------- |
+

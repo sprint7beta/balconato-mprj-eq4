@@ -6,3 +6,11 @@ Trabalham com artesanato simples e pequenas plantações de inverno. O convívio
 
 ## Problemas  
 O isolamento dificulta o acesso a suprimentos e cuidados médicos. O frio intenso pode deixar estradas intransitáveis por dias.
+
+
+## Resumo Ermo Frio
+
+
+| Imagem | Conexões                                   |
+| ------ | ------------------------------------------ |
+|        | Conecta com [[Haste Pálida]] via [[Trenó]] |

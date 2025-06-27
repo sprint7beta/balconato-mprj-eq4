@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "46431b3e6ad66545",
+        "id": "a490b444dd8f035c",
         "type": "tabs",
         "children": [
           {
-            "id": "552e3c8d710ab989",
+            "id": "4aeb4272e70fae3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Expressar/index.md",
+                "file": "--Inbox/Documentos/Autorização Provisória de Pé no Raso (APPR).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Autorização Provisória de Pé no Raso (APPR)"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "artesana",
+                "query": "tag:#trenó",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,45 +168,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "552e3c8d710ab989",
+  "active": "4aeb4272e70fae3e",
   "lastOpenFiles": [
-    "03-Destilar/index.md",
-    "02-Organizar/index.md",
-    "01-Capturar/index.md",
-    "--Tarefas/O que vamos fazer hoje.md",
+    "--Inbox/Documentos/Atestado de Resistência ao Frio (ARF).md",
+    "--Inbox/Documentos/Atestado de Equilíbrio sobre Gelo (AEG).md",
+    "--Inbox/Bairros/Alva neve.md",
+    "--Inbox/Documentos/Termo de Conscientização Sobre Riscos Climáticos (TCRC).md",
+    "--Inbox/Documentos/anexos/Pasted image 20250623195913.png",
+    "--Inbox/Documentos/Registro Único de Conduta Aquática (RUCA).md",
+    "--Inbox/Documentos/Registro de Uso Compartilhado de Flutuadores (RUCF).md",
+    "--Inbox/Documentos/anexos/Pasted image 20250623195738.png",
+    "--Inbox/Documentos/anexos/Pasted image 20250623195629.png",
+    "--Inbox/Documentos/Licença Para Nadar (LPN).md",
+    "--Inbox/Documentos/anexos/Pasted image 20250623195456.png",
+    "--Inbox/Documentos/Licença para Entrada em Áreas de Acúmulo de Gelo (LAAG).md",
+    "--Inbox/Documentos/anexos/Pasted image 20250623195341.png",
+    "--Inbox/Documentos/Histórico de Umidade Pessoal (HUP).md",
+    "--Inbox/Documentos/anexos/Pasted image 20250623195231.png",
+    "--Inbox/Documentos/Documento Oficial de Observação de Flutuabilidade (DOOF).md",
+    "--Inbox/Documentos/Certificado de Participação em Treinamento Anti-Congelamento (CPTAC).md",
+    "--Inbox/Documentos/anexos/Pasted image 20250623195120.png",
+    "--Inbox/Documentos/Certidão de Intenção de Imersão (CII).md",
+    "--Inbox/Documentos/Autorização Provisória de Pé no Raso (APPR).md",
+    "--Inbox/Documentos/anexos/Pasted image 20250623194934.png",
+    "--Inbox/Documentos/anexos/Pasted image 20250623194813.png",
+    "--Inbox/Bairros/Jardim Gelado.md",
+    "--Inbox/Bairros/Haste Pálida.md",
+    "--Inbox/Bairros/Gruta Fria.md",
+    "--Inbox/Bairros/Instância Congelada.md",
+    "--Inbox/Bairros/Fardo Gélido.md",
+    "--Inbox/Bairros/Ermo Frio.md",
+    "--Inbox/Bairros/Dique do Lago.md",
+    "--Inbox/Bairros/Coroa Branca.md",
+    "--Inbox/Bairros/Bico Congelado.md",
+    "--Inbox/Documentos/anexos/Pasted image 20250623180803.png",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "--Inbox/As Personas.md",
+    "--Inbox/Os Bairros.md",
     "--Inbox/Visão geral.md",
     "--Inbox/Os meios de transporte.md",
-    "--Inbox/Os Bairros.md",
-    "--Inbox/Atributos das personas.md",
-    "--Inbox/As Personas.md",
-    "--Inbox/As Ferramentas.md",
-    "--Inbox/Personas/Diana, Sonhadora Invisível.md",
-    "--Inbox/Personas/Carlos, Nômade Astuto.md",
-    "--Inbox/Personas/Beto, Ostentador Cego.md",
-    "--Inbox/Personas/Ana, Magnata Legal.md",
-    "--Inbox/Personas/anexos/Pasted image 20250516232215.png",
-    "--Inbox/Personas/anexos/Pasted image 20250516224728.png",
-    "--Inbox/Personas/anexos/Pasted image 20250516224710.png",
-    "--Inbox/Personas/anexos/Pasted image 20250516222800.png",
-    "--Inbox/Personas/anexos/Pasted image 20250516211912.png",
-    "--Inbox/Meios de transporte/Trenó.md",
-    "--Inbox/Meios de transporte/Ponte.md",
-    "--Inbox/Meios de transporte/Barco.md",
-    "--Inbox/Meios de transporte/Baldeação.md",
-    "--Inbox/Ferramentas/Vetor de usuário.md",
-    "--Inbox/Ferramentas/Service Blueprint.md",
-    "--Inbox/Ferramentas/Pixar Storytelling.md",
-    "--Inbox/Ferramentas/Markdown.md",
-    "--Inbox/Ferramentas/Job to be Done.md",
-    "--Inbox/Ferramentas/Diagrama Mermaid.md",
-    "--Inbox/Documentos/Termo de Conscientização Sobre Riscos Climáticos (TCRC).md",
-    "--Inbox/Documentos/Registro Único de Conduta Aquática (RUCA).md",
-    "--Inbox/anexos/RevMapa.png",
+    "Untitled.canvas",
+    "--Inbox/Documentos/anexos",
     "04-Expressar/--Tarefas",
-    "04-Expressar/--Inbox/Personas/anexos/Pasted image 20250516232215.png",
-    "04-Expressar/--Inbox/Personas/anexos/Pasted image 20250516224728.png",
-    "04-Expressar/--Inbox/Personas/anexos/Pasted image 20250516224710.png",
-    "04-Expressar/--Inbox/Personas/anexos/Pasted image 20250516222800.png",
     "04-Expressar/--Inbox/Personas/anexos",
     "04-Expressar/--Inbox/Personas",
     "04-Expressar/--Inbox/Meios de transporte",
@@ -214,7 +218,6 @@
     "04-Expressar/--Inbox/Bairros",
     "04-Expressar/--Inbox/anexos",
     "04-Expressar/--Inbox",
-    "04-Expressar.zip",
-    "--Tarefas"
+    "04-Expressar.zip"
   ]
 }

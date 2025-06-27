@@ -6,3 +6,11 @@ Os moradores cuidam de plantas resistentes ao frio e utilizam estufas simples pa
 
 ## Problemas  
 A falta de luz solar e o frio prolongado prejudicam o cultivo. Estufas podem quebrar com o peso da neve, trazendo perdas.
+
+
+## Resumo Jardim Gelado
+
+
+| Imagem | Conexões                                                                               |
+| ------ | -------------------------------------------------------------------------------------- |
+|        | Conecta com [[Gruta Fria]] via [[Barco]]<br>Conecta com [[Haste Pálida]] via [[Barco]] |

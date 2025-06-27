@@ -11,3 +11,11 @@
     Para chegar aqui, é preciso ter a intenção (T1), resistir ao frio (T6), partilhar flutuadores (T9) e honrar seu histórico de molhamento (T11). Só assim as águas se abrem.
 
 Depende de: [[Certidão de Intenção de Imersão (CII)]], [[Atestado de Resistência ao Frio (ARF)]], [[Registro de Uso Compartilhado de Flutuadores (RUCF)]] e [[Histórico de Umidade Pessoal (HUP)]]
+
+
+## Resumo LPN
+
+| ![[Pasted image 20250623195456.png]] | Depende de: [[Certidão de Intenção de Imersão (CII)]], [[Atestado de Resistência ao Frio (ARF)]], [[Registro de Uso Compartilhado de Flutuadores (RUCF)]] e [[Histórico de Umidade Pessoal (HUP)]]<br> |
+| -----------------------------------: | -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+
+

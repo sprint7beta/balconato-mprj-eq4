@@ -9,3 +9,11 @@
     
 - **Requisitos:**  
     Nenhuma autorização, nem mesmo a mais rasa, pode ser dada a quem encara o clima como um jogo de dados. Só depois deste gesto é que se permite molhar os joelhos.
+
+
+## Resumo TCRC
+
+
+| ![[Pasted image 20250623195913.png]] | Não há dependência |
+| ------------------------------------ | ------------------ |
+

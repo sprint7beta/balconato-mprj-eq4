@@ -6,3 +6,12 @@ Moradores mantêm pequenas hortas em estufas simples e dependem da criação de 
 
 ## Problemas  
 O vento constante desgasta construções e dificulta o cultivo. Muitas casas precisam ser reforçadas para suportar tempestades de neve.
+
+
+## Resumo Coroa Branca
+
+
+| Imagem | Conexões                                                                                                                               |
+| ------ | -------------------------------------------------------------------------------------------------------------------------------------- |
+|        | Conecta com [[Dique do Lago]] via [[Trenó]]<br>Conecta com [[Fardo Gélido]] via [[Trenó]] <br>Conecta com [[Gruta Fria]] via [[Barco]] |
+

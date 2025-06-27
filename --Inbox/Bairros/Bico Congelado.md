@@ -6,3 +6,12 @@ Os moradores são hábeis em escalada e caçada local. Costumam se reunir para t
 
 ## Problemas  
 O gelo sobre os penhascos causa frequentes quedas de pedras e torna o caminho perigoso. O frio intenso pode provocar doenças respiratórias.
+
+
+## Resumo do Bico Congelado
+
+
+| Imagem | Conexões                                                                                   |
+| ------ | ------------------------------------------------------------------------------------------ |
+|        | Conecta com [[Dique do Lago]] via [[Trenó]] <br>Conecta com [[Haste Pálida]] via [[Barco]] |
+
